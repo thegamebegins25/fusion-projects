@@ -14,7 +14,6 @@ A wall-mounted holder that securely fits your LiftMaster opener remote for easy 
 
 ### [Automatic Fish Feeder](projects/fish-feeder/README.md)
 An automated dispenser designed to feed your fish on a regular schedule with minimal fuss.  
-![Automatic Fish Feeder](projects/fish-feeder/docs/fish-feeder.jpg)
 
 ### [Apple Charger Protectors](projects/charger-protector/README.md)
 A precisely engineered protector that prevents cord fraying while ensuring a snug fit for your charger.  
